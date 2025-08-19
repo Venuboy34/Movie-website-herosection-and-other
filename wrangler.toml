@@ -1,0 +1,6 @@
+name = "filmzi"
+compatibility_date = "2024-05-15"
+main = "src/index.ts"
+
+[build]
+command = "npm run build"
